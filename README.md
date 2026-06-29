@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0A0A0A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vedula+Abhishek+%F0%9F%91%8B;AI+Engineer+in+Progress;Building+Production+ML+Systems;Data+Scientist+%7C+PyTorch+%7C+FastAPI" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vedula+Abhishek+%F0%9F%91%8B;AI+Engineer+in+Progress;Building+Production+ML+Systems;Data+Scientist+%7C+PyTorch+%7C+FastAPI">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0A0A0A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Vedula+Abhishek+%F0%9F%91%8B;AI+Engineer+in+Progress;Building+Production+ML+Systems;Data+Scientist+%7C+PyTorch+%7C+FastAPI" alt="Typing SVG" />
+</picture>
 
 </div>
 
@@ -24,18 +27,18 @@ I'm a **Data Scientist at IPHIPI Technologies** (Google Client Project), based i
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B0000?style=flat-square)
-![Machine Unlearning](https://img.shields.io/badge/Machine%20Unlearning-6A0DAD?style=flat-square)
-![Time Series](https://img.shields.io/badge/Time%20Series-2E8B57?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square)
-![Model Calibration](https://img.shields.io/badge/Model%20Calibration-0077B6?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8B0000?style=flat-square&logoColor=white)
+![Machine Unlearning](https://img.shields.io/badge/Machine%20Unlearning-6A0DAD?style=flat-square&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series-2E8B57?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square&logoColor=white)
+![Model Calibration](https://img.shields.io/badge/Model%20Calibration-0077B6?style=flat-square&logoColor=white)
 
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Frontend**
@@ -90,30 +93,31 @@ I'm a **Data Scientist at IPHIPI Technologies** (Google Client Project), based i
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VedulaAbhishek10&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedulaAbhishek10&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VedulaAbhishek10&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VedulaAbhishek10&show_icons=true&theme=default&hide_border=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VedulaAbhishek10&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedulaAbhishek10&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</picture>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VedulaAbhishek10&theme=default&hide_border=true)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VedulaAbhishek10&theme=github-dark-blue&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=VedulaAbhishek10&theme=default&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VedulaAbhishek10&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VedulaAbhishek10&theme=github-compact&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedulaAbhishek10&theme=minimal&hide_border=true" alt="Activity Graph" />
+</picture>
 
-</div>
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedula-abhishek)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/VedulaAbhishek10/portfolio)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=VedulaAbhishek10&style=flat-square&color=0A0A0A" alt="Profile views" />
 </div>

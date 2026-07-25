@@ -82,13 +82,6 @@ I'm a **Data Scientist at IPHIPI Technologies** (Google Client Project), based i
 
 ---
 
-#### 🌐 [Personal Portfolio](https://github.com/VedulaAbhishek10/portfolio)
-> Personal portfolio site built with React, TypeScript, and Vite. Smooth animations via Framer Motion, fully responsive.
-
-**Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion`
-
----
-
 #### 💰 [Financial Research Assistant](https://github.com/VedulaAbhishek10/My-first-Rag-Fin-research-assistant-)
 > RAG-based assistant that lets analysts query SEC filings and earnings reports in natural language, returning grounded answers with citations. Runs fully locally via Ollama — no API keys required.
 

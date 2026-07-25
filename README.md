@@ -89,6 +89,18 @@ I'm a **Data Scientist at IPHIPI Technologies** (Google Client Project), based i
 
 ---
 
+#### 💰 [Financial Research Assistant](https://github.com/VedulaAbhishek10/My-first-Rag-Fin-research-assistant-)
+> RAG-based assistant that lets analysts query SEC filings and earnings reports in natural language, returning grounded answers with citations. Runs fully locally via Ollama — no API keys required.
+
+**Stack:** `FastAPI` `Python` `Ollama` `ChromaDB` `sentence-transformers` `React` `TypeScript` `Docker`
+
+- Hybrid search combining vector embeddings with BM25 keyword matching via Reciprocal Rank Fusion
+- Auto-infers company, year, quarter, and document type from natural language queries
+- Every answer cites source documents, page numbers, and relevance scores
+- Token-by-token streaming responses over Server-Sent Events
+
+---
+
 ### GitHub Stats
 
 <div align="center">

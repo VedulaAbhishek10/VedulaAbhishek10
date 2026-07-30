@@ -104,12 +104,3 @@ I'm a **Data Scientist at IPHIPI Technologies** (Google Client Project), based i
 </picture>
 
 </div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VedulaAbhishek10&theme=github-compact&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedulaAbhishek10&theme=minimal&hide_border=true" alt="Activity Graph" />
-</picture>
-
-</div>
